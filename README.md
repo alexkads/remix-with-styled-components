@@ -2,6 +2,10 @@
 
 - [Remix Docs](https://remix.run/docs)
 
+```
+npx create-remix --template alexkads/remix-with-styled-components
+```
+
 ## Development
 
 From your terminal:
